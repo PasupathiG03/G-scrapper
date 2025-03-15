@@ -123,6 +123,6 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 Contact
 
-📧 Email: your-email@example.com🐙 GitHub: your-username
+📧 Email: pasupathi0322@gmail.com.com🐙 GitHub: pasu-learner
 
 
